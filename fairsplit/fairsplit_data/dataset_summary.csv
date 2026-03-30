@@ -1,0 +1,7 @@
+file_name,rows,columns
+transactions.csv,50000,13
+users.csv,100,10
+repayment_history.csv,200000,11
+groups.csv,500,9
+zk_proof_log.csv,10000,10
+coalition_games.csv,5000,11

@@ -1,0 +1,12 @@
+networkx
+numpy
+scipy
+web3
+py-solc-x
+matplotlib
+faker
+cryptography
+pandas
+seaborn
+uuid
+tqdm
